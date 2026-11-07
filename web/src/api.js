@@ -1,3 +1,4 @@
+﻿export const API_URL = (import.meta.env.VITE_API_URL || '').replace(/\/$/, '')
 const KEY = 'agrisat_session'
 
 export function loadSession() {
@@ -19,7 +20,7 @@ async function request(method, path, body, opts = {}) {
     headers['Content-Type'] = 'application/json'
     payload = JSON.stringify(body)
   }
-  const res = await fetch(`/api${path}`, { method, headers, body: payload })
+  const res = await fetch(`${API_URL}/api${path}`, { method, headers, body: payload })
   if (res.status === 401 && !path.startsWith('/auth')) { setSession(null); window.location.reload() }
   if (opts.blob) return res.blob()
   const ct = res.headers.get('content-type') || ''
@@ -45,7 +46,7 @@ export async function login(username, password) {
 export const fmt = (x, d = 0) => x == null || Number.isNaN(x) ? '' :
   Number(x).toLocaleString('fr-FR', { minimumFractionDigits: d, maximumFractionDigits: d })
 export const pct = (x, d = 1) => x == null ? '' : `${(x * 100).toLocaleString('fr-FR', { maximumFractionDigits: d, minimumFractionDigits: d })} %`
-export const CROPS = { coton: 'Coton', mais: 'Maïs' }
+export const CROPS = { coton: 'Coton', mais: 'MaÃ¯s' }
 
 export function doyToDate(year, doy) {
   const d = new Date(Date.UTC(year, 0, 1))
