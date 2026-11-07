@@ -1,0 +1,325 @@
+indicator,code,label,year,value
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1960,46.1577230946704
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1961,46.1937857251441
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1962,44.7092726752393
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1963,43.7183697135422
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1964,45.5281522642709
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1965,44.6194250281919
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1966,45.1478198273001
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1967,42.0810132043619
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1968,38.8680689997636
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1969,38.4966628316752
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1970,36.3278523843779
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1971,34.357736013712
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1972,34.2310223417357
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1973,33.6239203142795
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1974,31.5336957738479
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1975,30.5386665532365
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1976,33.1965062561477
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1977,31.8550853762966
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1978,34.5421439063843
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1979,34.9928860436256
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1980,35.4326884671216
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1981,32.664652346085
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1982,32.5011996849539
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1983,33.1576442965202
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1984,33.3115605274576
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1985,31.5455488860391
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1986,33.6710590159502
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1987,33.2799507625574
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1988,34.3800931861193
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1989,37.8568847933107
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1990,34.6549453638938
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1991,35.0437734981583
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1992,33.9419041358772
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1993,34.1194607988571
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1994,32.2939945673508
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1995,33.0901595921974
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1996,35.7053003917894
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1997,35.7819301606788
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1998,36.5766497896743
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1999,24.5343349115333
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2000,23.5412339925262
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2001,25.0481627427766
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2002,25.38272927764
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2003,24.4539837351198
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2004,26.5208492800284
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2005,26.6894285026991
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2006,26.631803428758
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2007,26.9710869666408
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2008,26.8261561852139
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2009,26.9789553760994
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2010,25.8411354962681
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2011,25.7970008253273
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2012,25.7689758312295
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2013,25.2754046390823
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2014,25.6184529738008
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2015,26.3920850925037
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2016,27.7536354980493
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2017,28.4890165273264
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2018,28.0647739127077
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2019,26.8758016258337
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2020,27.1091750361118
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2021,28.5289506098592
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2022,26.8966787968124
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2023,25.4019723667563
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2024,24.2317229519649
+agriculture_pct_pib,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",2025,22.9191586398898
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),1991,46.5716871845922
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),1992,46.5250630256694
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),1993,46.3803214246156
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),1994,46.3396751924998
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),1995,45.89351717368
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),1996,45.8394159989478
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),1997,45.5707966451896
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),1998,45.5055823927593
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),1999,45.3171746434341
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2000,44.9428223284982
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2001,44.6691914686674
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2002,44.5181688872788
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2003,44.3631633225567
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2004,44.2555473232207
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2005,44.3614828523092
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2006,44.232222060287
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2007,43.7983353609844
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2008,43.5029768186884
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2009,43.6331381931373
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2010,43.7419080863496
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2011,43.6262798420007
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2012,43.715648326975
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2013,43.319634936961
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2014,42.9123500546781
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2015,43.1917046345585
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2016,43.3256529870326
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2017,42.9445886542896
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2018,42.3163727552176
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2019,41.9865160039013
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2020,43.3084882610158
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2021,43.4363693838773
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2022,42.6711007421641
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2023,41.8570674785988
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2024,41.0503967336002
+emploi_agricole_pct,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),2025,40.2410451099361
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1961,0.642391304347826
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1962,0.635106382978723
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1963,0.442708333333333
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1964,0.826530612244898
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1965,1.1
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1966,0.728155339805825
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1967,2.33177570093458
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1968,2.71454545454545
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1969,3.84745762711864
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1970,4.75
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1971,4.24
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1972,4.6453125
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1973,3.36615384615385
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1974,3.44436090225564
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1975,1.76204379562044
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1976,1.42857142857143
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1977,0.769230769230769
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1978,1.32413793103448
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1979,0.904761904761905
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1980,0.574666666666667
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1981,1.8078431372549
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1982,2.0
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1983,3.46153846153846
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1984,4.68853503184713
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1985,7.2746835443038
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1986,6.80440251572327
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1987,5.918125
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1988,4.2944099378882
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1989,2.03703703703704
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1990,6.81300309597523
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1991,7.29444444444444
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1992,9.40184049079755
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1993,10.4472727272727
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1994,10.0323529411765
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1995,20.1117318435754
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1996,15.7338461538462
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1997,18.5561904761905
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1998,16.7586666666667
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1999,24.6521739130435
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2000,14.7899159663866
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2001,12.6938775510204
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2002,16.3666666666667
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2003,0.802264150943396
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2004,0.0547169811320755
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2005,0.461944235116805
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2006,0.0132
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2007,0.2456
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2008,0.3204
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2009,6.544
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2010,9.134
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2011,4.44
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2012,10.29
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2013,5.00185185185185
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2014,8.0862962962963
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2015,0.132592592592593
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2016,9.94857142857143
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2017,0.0148676776687481
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2018,29.3072174725278
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2019,42.7161152614728
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2020,32.9968964577417
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2021,31.7427825031053
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2022,35.860678779568
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2023,32.258896126157
+engrais_kg_ha,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),2024,25.5369214946863
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1993,0.440599214931793
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1994,38.5308661668537
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1995,14.4625482180894
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1996,4.91423972637201
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1997,3.46629590564776
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1998,5.75331458417064
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1999,0.326722893396866
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2000,4.16540442290282
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2001,3.98429547767893
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2002,2.48916235491541
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2003,1.48724246145441
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2004,0.873890830868499
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2005,5.36452085832342
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2006,3.78217696540374
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,1.29806813334152
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,7.94729876067854
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,0.896072355749069
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,2.20783532536523
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,2.7042390774728
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,6.74468253340712
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,0.428888888888883
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,-0.54875755094818
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,0.218785923536245
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,-0.793310145785624
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,0.0432648555103608
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,0.919170717886053
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,0.732849371241066
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,3.02272119663759
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,1.73353962694035
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,1.35077863583527
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,2.73870078406074
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,1.16093089640415
+inflation_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2025,1.10155247902977
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1961,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1962,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1963,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1964,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1965,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1966,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1967,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1968,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1969,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1970,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1971,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1972,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1973,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1974,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1975,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1976,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1977,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1978,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1979,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1980,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1981,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1982,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1983,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1984,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1985,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1986,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1987,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1988,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1989,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1990,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1991,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1992,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1993,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1994,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1995,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1996,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1997,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1998,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1999,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2000,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2001,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2002,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2003,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2004,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2005,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2006,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2007,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2008,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2009,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2010,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2011,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2012,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2013,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2014,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2015,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2016,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2017,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2018,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2019,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2020,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2021,1039.0
+pluie_moyenne_mm,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),2022,1039.0
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1961,12.5448740688187
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1962,12.7274742816602
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1963,12.9098084427102
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1964,13.0699716211422
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1965,13.2650762681802
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1966,13.5310393756651
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1967,13.9194749911316
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1968,14.1926214969847
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1969,14.9435083362895
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1970,15.1354203618304
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1971,15.5696168854204
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1972,15.8453352252572
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1973,16.0138346931536
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1974,16.2532813054275
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1975,16.6088151826889
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1976,16.8438275984392
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1977,17.1387016672579
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1978,17.3262681802057
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1979,17.5
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1980,17.7749201844626
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1981,18.0454061724016
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1982,18.4045760908123
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1983,18.3912735012416
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1984,18.559772969138
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1985,18.8529620432778
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1986,19.3861298332742
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1987,19.474813763746
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1988,19.5650940049663
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1989,19.559772969138
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1990,20.0540971975878
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1991,20.1162646328485
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1992,20.3101277048599
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1993,20.6264632848528
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1994,21.1693863072011
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1995,22.3005498403689
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1996,23.9875842497339
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1997,25.6285030152536
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1998,26.9671869457254
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),1999,27.5452288045406
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2000,28.3068463994324
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2001,28.9067931890741
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2002,29.8628946434906
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2003,30.7821922667613
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2004,30.6779886484569
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2005,30.8048066690316
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2006,29.6144909542391
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2007,29.9671869457254
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2008,31.7833451578574
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2009,33.1707165661582
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2010,30.9253281305427
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2011,32.0979957431713
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2012,33.3912735012416
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2013,35.3009932600213
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2014,35.4549485633203
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,36.1229159276339
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,34.3805427456545
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,36.5955125931181
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,40.3148279531749
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,41.8181979425328
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,39.7825470024831
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,41.5428343384179
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,43.2855622561192
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,42.7430826534232
+terres_agricoles_pct,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,43.1411848173111

@@ -1,0 +1,38 @@
+{
+ "data_source": "reel",
+ "min_correlation": 0.3,
+ "crops": {
+  "coton": {
+   "n_communes": 27,
+   "n_validated": 0,
+   "mean_correlation": null,
+   "best_r2": null,
+   "ml_skipped": "Rendements communaux absents ou insuffisants (0 observations)"
+  },
+  "mais": {
+   "n_communes": 27,
+   "n_validated": 0,
+   "mean_correlation": -0.114,
+   "best_r2": -0.096,
+   "ml_skipped": null
+  }
+ },
+ "cotton_national_check": {
+  "correlation": 0.084,
+  "n_years": 44,
+  "worst_years_faostat": [
+   1981,
+   2012,
+   2015,
+   2013
+  ]
+ },
+ "rain_validation": {
+  "season_corr_nasa_chirps_mean": 0.562,
+  "season_bias_nasa_vs_chirps_pct_mean": -0.7,
+  "dekad_max_abs_error_after_recalibration_mm": 0.55,
+  "chirps_last_dekad": "2026-10-21",
+  "ndvi_last_dekad": "2026-10-11",
+  "nasa_last_day": "2025-12-31"
+ }
+}

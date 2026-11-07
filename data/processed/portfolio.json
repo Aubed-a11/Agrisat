@@ -1,0 +1,351 @@
+{
+ "premium_income": 1581399155.0,
+ "expected_payout": 830068628.0,
+ "expected_loss_ratio": 0.525,
+ "std_payout": 730311115.0,
+ "var": 3780460646.0,
+ "cvar": 4451233308.0,
+ "prob_loss_ratio_above_100": 0.1336,
+ "capital_required": 2869834152.0,
+ "stop_loss": {
+  "attachment_loss_ratio": 1.2,
+  "limit_loss_ratio": 3.0,
+  "reinsurance_premium": 82631170.0,
+  "net_var": 1897678986.0,
+  "net_cvar": 1906353571.0,
+  "capital_required_net": 407585585.0
+ },
+ "loss_ratio_quantiles": {
+  "0.5": 0.395,
+  "0.75": 0.718,
+  "0.9": 1.129,
+  "0.95": 1.447,
+  "0.99": 2.151,
+  "0.995": 2.391
+ },
+ "histogram": [
+  {
+   "bucket": "0 \u00e0 25 %",
+   "share": 0.3299
+  },
+  {
+   "bucket": "25 \u00e0 50 %",
+   "share": 0.2655
+  },
+  {
+   "bucket": "50 \u00e0 75 %",
+   "share": 0.1705
+  },
+  {
+   "bucket": "75 \u00e0 100 %",
+   "share": 0.1005
+  },
+  {
+   "bucket": "100 \u00e0 125 %",
+   "share": 0.0578
+  },
+  {
+   "bucket": "125 \u00e0 150 %",
+   "share": 0.0313
+  },
+  {
+   "bucket": "150 \u00e0 200 %",
+   "share": 0.0296
+  },
+  {
+   "bucket": "200 \u00e0 300 %",
+   "share": 0.0141
+  },
+  {
+   "bucket": "plus de 300 %",
+   "share": 0.0008
+  }
+ ],
+ "diversification_factor": 0.3641,
+ "historical_replay": [
+  {
+   "year": 1981,
+   "total_payout": 134774184.0,
+   "loss_ratio": 0.085
+  },
+  {
+   "year": 1982,
+   "total_payout": 2739130533.0,
+   "loss_ratio": 1.732
+  },
+  {
+   "year": 1983,
+   "total_payout": 5438119564.0,
+   "loss_ratio": 3.439
+  },
+  {
+   "year": 1984,
+   "total_payout": 6010474529.0,
+   "loss_ratio": 3.801
+  },
+  {
+   "year": 1985,
+   "total_payout": 773222094.0,
+   "loss_ratio": 0.489
+  },
+  {
+   "year": 1986,
+   "total_payout": 1036312146.0,
+   "loss_ratio": 0.655
+  },
+  {
+   "year": 1987,
+   "total_payout": 1235038126.0,
+   "loss_ratio": 0.781
+  },
+  {
+   "year": 1988,
+   "total_payout": 133091634.0,
+   "loss_ratio": 0.084
+  },
+  {
+   "year": 1989,
+   "total_payout": 166255093.0,
+   "loss_ratio": 0.105
+  },
+  {
+   "year": 1990,
+   "total_payout": 1071309943.0,
+   "loss_ratio": 0.677
+  },
+  {
+   "year": 1991,
+   "total_payout": 235190033.0,
+   "loss_ratio": 0.149
+  },
+  {
+   "year": 1992,
+   "total_payout": 507981139.0,
+   "loss_ratio": 0.321
+  },
+  {
+   "year": 1993,
+   "total_payout": 1799324763.0,
+   "loss_ratio": 1.138
+  },
+  {
+   "year": 1994,
+   "total_payout": 113701552.0,
+   "loss_ratio": 0.072
+  },
+  {
+   "year": 1995,
+   "total_payout": 1449095520.0,
+   "loss_ratio": 0.916
+  },
+  {
+   "year": 1996,
+   "total_payout": 297291517.0,
+   "loss_ratio": 0.188
+  },
+  {
+   "year": 1997,
+   "total_payout": 1497864632.0,
+   "loss_ratio": 0.947
+  },
+  {
+   "year": 1998,
+   "total_payout": 3285516.0,
+   "loss_ratio": 0.002
+  },
+  {
+   "year": 1999,
+   "total_payout": 599679280.0,
+   "loss_ratio": 0.379
+  },
+  {
+   "year": 2000,
+   "total_payout": 36570760.0,
+   "loss_ratio": 0.023
+  },
+  {
+   "year": 2001,
+   "total_payout": 838116607.0,
+   "loss_ratio": 0.53
+  },
+  {
+   "year": 2002,
+   "total_payout": 1053528040.0,
+   "loss_ratio": 0.666
+  },
+  {
+   "year": 2003,
+   "total_payout": 0.0,
+   "loss_ratio": 0.0
+  },
+  {
+   "year": 2004,
+   "total_payout": 487748166.0,
+   "loss_ratio": 0.308
+  },
+  {
+   "year": 2005,
+   "total_payout": 946615730.0,
+   "loss_ratio": 0.599
+  },
+  {
+   "year": 2006,
+   "total_payout": 3129249077.0,
+   "loss_ratio": 1.979
+  },
+  {
+   "year": 2007,
+   "total_payout": 364427968.0,
+   "loss_ratio": 0.23
+  },
+  {
+   "year": 2008,
+   "total_payout": 8671465.0,
+   "loss_ratio": 0.005
+  },
+  {
+   "year": 2009,
+   "total_payout": 896604754.0,
+   "loss_ratio": 0.567
+  },
+  {
+   "year": 2010,
+   "total_payout": 263623582.0,
+   "loss_ratio": 0.167
+  },
+  {
+   "year": 2011,
+   "total_payout": 2543561049.0,
+   "loss_ratio": 1.608
+  },
+  {
+   "year": 2012,
+   "total_payout": 108499565.0,
+   "loss_ratio": 0.069
+  },
+  {
+   "year": 2013,
+   "total_payout": 2800992766.0,
+   "loss_ratio": 1.771
+  },
+  {
+   "year": 2014,
+   "total_payout": 3327005798.0,
+   "loss_ratio": 2.104
+  },
+  {
+   "year": 2015,
+   "total_payout": 4386034372.0,
+   "loss_ratio": 2.774
+  },
+  {
+   "year": 2016,
+   "total_payout": 529777508.0,
+   "loss_ratio": 0.335
+  },
+  {
+   "year": 2017,
+   "total_payout": 23059929.0,
+   "loss_ratio": 0.015
+  },
+  {
+   "year": 2018,
+   "total_payout": 271455978.0,
+   "loss_ratio": 0.172
+  },
+  {
+   "year": 2019,
+   "total_payout": 36841917.0,
+   "loss_ratio": 0.023
+  },
+  {
+   "year": 2020,
+   "total_payout": 18516667.0,
+   "loss_ratio": 0.012
+  },
+  {
+   "year": 2021,
+   "total_payout": 86504878.0,
+   "loss_ratio": 0.055
+  },
+  {
+   "year": 2022,
+   "total_payout": 360515946.0,
+   "loss_ratio": 0.228
+  },
+  {
+   "year": 2023,
+   "total_payout": 496873959.0,
+   "loss_ratio": 0.314
+  },
+  {
+   "year": 2024,
+   "total_payout": 561303808.0,
+   "loss_ratio": 0.355
+  },
+  {
+   "year": 2025,
+   "total_payout": 2776713296.0,
+   "loss_ratio": 1.756
+  }
+ ],
+ "stress_worst_years": [
+  {
+   "year": 1984,
+   "total_payout": 6010474529.0,
+   "loss_ratio": 3.801
+  },
+  {
+   "year": 1983,
+   "total_payout": 5438119564.0,
+   "loss_ratio": 3.439
+  },
+  {
+   "year": 2015,
+   "total_payout": 4386034372.0,
+   "loss_ratio": 2.774
+  },
+  {
+   "year": 2014,
+   "total_payout": 3327005798.0,
+   "loss_ratio": 2.104
+  },
+  {
+   "year": 2006,
+   "total_payout": 3129249077.0,
+   "loss_ratio": 1.979
+  }
+ ],
+ "expected_payout_by_commune": {
+  "1": 68720376.0,
+  "2": 57330484.0,
+  "3": 56991474.0,
+  "4": 30633939.0,
+  "5": 61087938.0,
+  "6": 69036645.0,
+  "7": 48914522.0,
+  "8": 29510823.0,
+  "9": 23959643.0,
+  "10": 28399066.0,
+  "11": 17342581.0,
+  "12": 31856899.0,
+  "13": 39608732.0,
+  "14": 34105612.0,
+  "15": 8034934.0,
+  "16": 28386663.0,
+  "17": 28684533.0,
+  "18": 18246628.0,
+  "19": 22225423.0,
+  "20": 12880867.0,
+  "21": 30401338.0,
+  "22": 20713263.0,
+  "23": 7802441.0,
+  "24": 14716982.0,
+  "25": 12538494.0,
+  "26": 13944248.0,
+  "27": 13994080.0
+ },
+ "total_insured_ha": 169191.0,
+ "total_sum_insured": 23199004000.0,
+ "n_sims": 10000
+}

@@ -1,0 +1,3836 @@
+[
+ {
+  "commune_id": 1,
+  "crop": "coton",
+  "trigger": [
+   144.9,
+   227.6,
+   211.4,
+   15.2
+  ],
+  "exit": [
+   72.5,
+   113.8,
+   105.7,
+   7.6
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.0561,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 17,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 6064.0,
+   "std_payout": 15454.3,
+   "prob_payout": 0.3097,
+   "var": 75000.0,
+   "cvar": 75365.4,
+   "pure_premium": 6064.0,
+   "standalone_capital": 69301.4,
+   "allocated_capital": 25230.1,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.04043,
+   "commercial_premium": 11449.4,
+   "commercial_rate": 0.07633,
+   "wang_premium": 12132.7,
+   "subsidy": 9159.5,
+   "farmer_premium": 2289.9,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.0561,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 2,
+  "crop": "coton",
+  "trigger": [
+   150.0,
+   247.5,
+   255.0,
+   62.3
+  ],
+  "exit": [
+   75.0,
+   123.8,
+   127.5,
+   31.1
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.03114,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 18,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 4889.8,
+   "std_payout": 11276.1,
+   "prob_payout": 0.3502,
+   "var": 74898.2,
+   "cvar": 75592.3,
+   "pure_premium": 4889.8,
+   "standalone_capital": 70702.5,
+   "allocated_capital": 25740.2,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.0326,
+   "commercial_premium": 9951.8,
+   "commercial_rate": 0.06635,
+   "wang_premium": 9618.8,
+   "subsidy": 7961.4,
+   "farmer_premium": 1990.4,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.03113,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 3,
+  "crop": "coton",
+  "trigger": [
+   144.5,
+   222.4,
+   219.4,
+   17.5
+  ],
+  "exit": [
+   72.3,
+   111.2,
+   109.7,
+   8.7
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.05687,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 16,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 5155.8,
+   "std_payout": 13596.0,
+   "prob_payout": 0.2866,
+   "var": 75000.0,
+   "cvar": 76152.7,
+   "pure_premium": 5155.8,
+   "standalone_capital": 70996.9,
+   "allocated_capital": 25847.3,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03437,
+   "commercial_premium": 10320.8,
+   "commercial_rate": 0.06881,
+   "wang_premium": 10414.3,
+   "subsidy": 8256.6,
+   "farmer_premium": 2064.2,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.05687,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 4,
+  "crop": "coton",
+  "trigger": [
+   135.9,
+   201.8,
+   81.2,
+   1.2
+  ],
+  "exit": [
+   67.9,
+   100.9,
+   40.6,
+   0.6
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.06802,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 18,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 7168.7,
+   "std_payout": 18376.4,
+   "prob_payout": 0.2819,
+   "var": 83044.1,
+   "cvar": 90005.2,
+   "pure_premium": 7168.7,
+   "standalone_capital": 82836.5,
+   "allocated_capital": 30157.7,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.04779,
+   "commercial_premium": 13579.3,
+   "commercial_rate": 0.09053,
+   "wang_premium": 14340.9,
+   "subsidy": 10863.5,
+   "farmer_premium": 2715.9,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06802,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 5,
+  "crop": "coton",
+  "trigger": [
+   129.5,
+   224.2,
+   162.3,
+   4.6
+  ],
+  "exit": [
+   64.7,
+   112.1,
+   81.1,
+   2.3
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.07459,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 19,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 7271.6,
+   "std_payout": 18153.8,
+   "prob_payout": 0.2866,
+   "var": 77165.5,
+   "cvar": 85786.6,
+   "pure_premium": 7271.6,
+   "standalone_capital": 78515.0,
+   "allocated_capital": 28584.4,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.04848,
+   "commercial_premium": 13506.7,
+   "commercial_rate": 0.09004,
+   "wang_premium": 14474.1,
+   "subsidy": 10805.4,
+   "farmer_premium": 2701.3,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.07458,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 6,
+  "crop": "coton",
+  "trigger": [
+   145.6,
+   244.3,
+   281.9,
+   65.6
+  ],
+  "exit": [
+   72.8,
+   122.1,
+   140.9,
+   32.8
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.03604,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 19,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 6372.9,
+   "std_payout": 13755.2,
+   "prob_payout": 0.3727,
+   "var": 75000.0,
+   "cvar": 75425.4,
+   "pure_premium": 6372.9,
+   "standalone_capital": 69052.5,
+   "allocated_capital": 25139.5,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.04249,
+   "commercial_premium": 11849.2,
+   "commercial_rate": 0.07899,
+   "wang_premium": 12363.9,
+   "subsidy": 9479.3,
+   "farmer_premium": 2369.8,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.03604,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 7,
+  "crop": "coton",
+  "trigger": [
+   151.8,
+   243.6,
+   264.4,
+   77.7
+  ],
+  "exit": [
+   75.9,
+   121.8,
+   132.2,
+   38.8
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.03547,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 16,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 4905.4,
+   "std_payout": 9810.0,
+   "prob_payout": 0.3725,
+   "var": 51356.5,
+   "cvar": 63421.5,
+   "pure_premium": 4905.4,
+   "standalone_capital": 58516.1,
+   "allocated_capital": 21303.6,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.0327,
+   "commercial_premium": 9381.0,
+   "commercial_rate": 0.06254,
+   "wang_premium": 9387.4,
+   "subsidy": 7504.8,
+   "farmer_premium": 1876.2,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.03547,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 8,
+  "crop": "coton",
+  "trigger": [
+   160.1,
+   223.7,
+   278.8,
+   78.0
+  ],
+  "exit": [
+   80.1,
+   111.8,
+   139.4,
+   39.0
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.03155,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 17,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 5065.5,
+   "std_payout": 10339.7,
+   "prob_payout": 0.3734,
+   "var": 57108.7,
+   "cvar": 67628.8,
+   "pure_premium": 5065.5,
+   "standalone_capital": 62563.3,
+   "allocated_capital": 22777.0,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03377,
+   "commercial_premium": 9791.0,
+   "commercial_rate": 0.06527,
+   "wang_premium": 9733.5,
+   "subsidy": 7832.8,
+   "farmer_premium": 1958.2,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.03156,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 9,
+  "crop": "coton",
+  "trigger": [
+   153.2,
+   203.0,
+   268.5,
+   99.9
+  ],
+  "exit": [
+   76.6,
+   101.5,
+   134.3,
+   49.9
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.04363,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 17,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 4233.7,
+   "std_payout": 9722.8,
+   "prob_payout": 0.2984,
+   "var": 54854.3,
+   "cvar": 67138.6,
+   "pure_premium": 4233.7,
+   "standalone_capital": 62904.9,
+   "allocated_capital": 22901.4,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.02822,
+   "commercial_premium": 8698.5,
+   "commercial_rate": 0.05799,
+   "wang_premium": 8337.3,
+   "subsidy": 6958.8,
+   "farmer_premium": 1739.7,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.04363,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 10,
+  "crop": "coton",
+  "trigger": [
+   171.3,
+   216.7,
+   287.7,
+   99.0
+  ],
+  "exit": [
+   85.6,
+   108.3,
+   143.9,
+   49.5
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.03574,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 16,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 5437.1,
+   "std_payout": 10203.3,
+   "prob_payout": 0.402,
+   "var": 51794.9,
+   "cvar": 62792.5,
+   "pure_premium": 5437.1,
+   "standalone_capital": 57355.5,
+   "allocated_capital": 20881.0,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03625,
+   "commercial_premium": 10033.6,
+   "commercial_rate": 0.06689,
+   "wang_premium": 10267.6,
+   "subsidy": 8026.9,
+   "farmer_premium": 2006.7,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.03573,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 11,
+  "crop": "coton",
+  "trigger": [
+   134.9,
+   181.8,
+   233.7,
+   113.3
+  ],
+  "exit": [
+   67.4,
+   90.9,
+   116.9,
+   56.7
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.04744,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 16,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 2681.8,
+   "std_payout": 7779.3,
+   "prob_payout": 0.2048,
+   "var": 48431.7,
+   "cvar": 60248.4,
+   "pure_premium": 2681.8,
+   "standalone_capital": 57566.5,
+   "allocated_capital": 20957.9,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.01788,
+   "commercial_premium": 6370.1,
+   "commercial_rate": 0.04247,
+   "wang_premium": 5540.9,
+   "subsidy": 5096.1,
+   "farmer_premium": 1274.0,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.04744,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 12,
+  "crop": "coton",
+  "trigger": [
+   159.0,
+   181.9,
+   254.5,
+   102.5
+  ],
+  "exit": [
+   79.5,
+   91.0,
+   127.3,
+   51.3
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.03668,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 15,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 3989.7,
+   "std_payout": 9076.1,
+   "prob_payout": 0.2986,
+   "var": 49449.5,
+   "cvar": 61627.4,
+   "pure_premium": 3989.7,
+   "standalone_capital": 57637.7,
+   "allocated_capital": 20983.8,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.0266,
+   "commercial_premium": 8117.4,
+   "commercial_rate": 0.05412,
+   "wang_premium": 7842.5,
+   "subsidy": 6493.9,
+   "farmer_premium": 1623.5,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.03668,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 13,
+  "crop": "coton",
+  "trigger": [
+   167.4,
+   239.1,
+   262.8,
+   69.3
+  ],
+  "exit": [
+   83.7,
+   119.6,
+   131.4,
+   34.7
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.04288,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 18,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 4820.8,
+   "std_payout": 10585.0,
+   "prob_payout": 0.3655,
+   "var": 65690.5,
+   "cvar": 73052.3,
+   "pure_premium": 4820.8,
+   "standalone_capital": 68231.5,
+   "allocated_capital": 24840.6,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03214,
+   "commercial_premium": 9739.8,
+   "commercial_rate": 0.06493,
+   "wang_premium": 9395.1,
+   "subsidy": 7791.9,
+   "farmer_premium": 1948.0,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.04287,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 14,
+  "crop": "coton",
+  "trigger": [
+   146.3,
+   186.3,
+   238.8,
+   120.0
+  ],
+  "exit": [
+   73.2,
+   93.1,
+   119.4,
+   60.0
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.05174,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 18,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 3232.7,
+   "std_payout": 9029.1,
+   "prob_payout": 0.2352,
+   "var": 55458.4,
+   "cvar": 68269.2,
+   "pure_premium": 3232.7,
+   "standalone_capital": 65036.5,
+   "allocated_capital": 23677.4,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.02155,
+   "commercial_premium": 7467.3,
+   "commercial_rate": 0.04978,
+   "wang_premium": 6624.9,
+   "subsidy": 5973.8,
+   "farmer_premium": 1493.5,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.05173,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 15,
+  "crop": "coton",
+  "trigger": [
+   136.0,
+   204.3,
+   257.8,
+   103.9
+  ],
+  "exit": [
+   68.0,
+   102.1,
+   128.9,
+   51.9
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.03796,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 17,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 4609.4,
+   "std_payout": 11026.0,
+   "prob_payout": 0.3234,
+   "var": 74837.6,
+   "cvar": 75040.4,
+   "pure_premium": 4609.4,
+   "standalone_capital": 70431.0,
+   "allocated_capital": 25641.3,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03073,
+   "commercial_premium": 9564.7,
+   "commercial_rate": 0.06376,
+   "wang_premium": 9139.9,
+   "subsidy": 7651.8,
+   "farmer_premium": 1912.9,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.03796,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 16,
+  "crop": "coton",
+  "trigger": [
+   142.1,
+   190.9,
+   230.2,
+   37.3
+  ],
+  "exit": [
+   71.0,
+   95.4,
+   115.1,
+   18.6
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.04025,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 17,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 5585.0,
+   "std_payout": 13884.7,
+   "prob_payout": 0.3175,
+   "var": 75000.0,
+   "cvar": 75041.1,
+   "pure_premium": 5585.0,
+   "standalone_capital": 69456.0,
+   "allocated_capital": 25286.4,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03723,
+   "commercial_premium": 10818.2,
+   "commercial_rate": 0.07212,
+   "wang_premium": 11138.6,
+   "subsidy": 8654.6,
+   "farmer_premium": 2163.6,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.04026,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 17,
+  "crop": "coton",
+  "trigger": [
+   159.8,
+   240.3,
+   238.2,
+   17.8
+  ],
+  "exit": [
+   79.9,
+   120.1,
+   119.1,
+   8.9
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.06113,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 16,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 5413.7,
+   "std_payout": 13226.8,
+   "prob_payout": 0.3583,
+   "var": 75000.0,
+   "cvar": 75782.8,
+   "pure_premium": 5413.7,
+   "standalone_capital": 70369.1,
+   "allocated_capital": 25618.8,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03609,
+   "commercial_premium": 10634.1,
+   "commercial_rate": 0.07089,
+   "wang_premium": 10743.3,
+   "subsidy": 8507.3,
+   "farmer_premium": 2126.8,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06113,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 18,
+  "crop": "coton",
+  "trigger": [
+   147.1,
+   235.0,
+   291.6,
+   84.1
+  ],
+  "exit": [
+   73.5,
+   117.5,
+   145.8,
+   42.0
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.03057,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 16,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 4055.2,
+   "std_payout": 10554.0,
+   "prob_payout": 0.2875,
+   "var": 73464.2,
+   "cvar": 75031.1,
+   "pure_premium": 4055.2,
+   "standalone_capital": 70975.9,
+   "allocated_capital": 25839.7,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.02703,
+   "commercial_premium": 8852.2,
+   "commercial_rate": 0.05901,
+   "wang_premium": 8179.3,
+   "subsidy": 7081.8,
+   "farmer_premium": 1770.4,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.03058,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 19,
+  "crop": "coton",
+  "trigger": [
+   154.6,
+   201.8,
+   184.6,
+   8.4
+  ],
+  "exit": [
+   77.3,
+   100.9,
+   92.3,
+   4.2
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.06131,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 19,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 5978.6,
+   "std_payout": 14513.0,
+   "prob_payout": 0.3496,
+   "var": 75000.0,
+   "cvar": 75300.0,
+   "pure_premium": 5978.6,
+   "standalone_capital": 69321.4,
+   "allocated_capital": 25237.4,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03986,
+   "commercial_premium": 11336.5,
+   "commercial_rate": 0.07558,
+   "wang_premium": 11847.4,
+   "subsidy": 9069.2,
+   "farmer_premium": 2267.3,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06131,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 20,
+  "crop": "coton",
+  "trigger": [
+   149.5,
+   232.8,
+   285.2,
+   83.2
+  ],
+  "exit": [
+   74.8,
+   116.4,
+   142.6,
+   41.6
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.05186,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 17,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 4746.2,
+   "std_payout": 10549.9,
+   "prob_payout": 0.3595,
+   "var": 65961.7,
+   "cvar": 73365.6,
+   "pure_premium": 4746.2,
+   "standalone_capital": 68619.4,
+   "allocated_capital": 24981.8,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03164,
+   "commercial_premium": 9659.2,
+   "commercial_rate": 0.06439,
+   "wang_premium": 9272.3,
+   "subsidy": 7727.3,
+   "farmer_premium": 1931.8,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.05186,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 21,
+  "crop": "coton",
+  "trigger": [
+   150.8,
+   237.0,
+   283.2,
+   85.4
+  ],
+  "exit": [
+   75.4,
+   118.5,
+   141.6,
+   42.7
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.03588,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 16,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 5937.2,
+   "std_payout": 11617.3,
+   "prob_payout": 0.4048,
+   "var": 67571.5,
+   "cvar": 74798.1,
+   "pure_premium": 5937.2,
+   "standalone_capital": 68860.9,
+   "allocated_capital": 25069.7,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03958,
+   "commercial_premium": 11258.9,
+   "commercial_rate": 0.07506,
+   "wang_premium": 11304.9,
+   "subsidy": 9007.1,
+   "farmer_premium": 2251.8,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.03588,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 22,
+  "crop": "coton",
+  "trigger": [
+   153.4,
+   213.9,
+   196.3,
+   11.8
+  ],
+  "exit": [
+   76.7,
+   106.9,
+   98.1,
+   5.9
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.06382,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 18,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 6698.7,
+   "std_payout": 15459.5,
+   "prob_payout": 0.3747,
+   "var": 75000.0,
+   "cvar": 75471.2,
+   "pure_premium": 6698.7,
+   "standalone_capital": 68772.5,
+   "allocated_capital": 25037.5,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.04466,
+   "commercial_premium": 12269.9,
+   "commercial_rate": 0.0818,
+   "wang_premium": 13133.7,
+   "subsidy": 9815.9,
+   "farmer_premium": 2454.0,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06382,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 23,
+  "crop": "coton",
+  "trigger": [
+   142.1,
+   208.1,
+   269.9,
+   90.8
+  ],
+  "exit": [
+   71.1,
+   104.1,
+   134.9,
+   45.4
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.0313,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 17,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 4390.2,
+   "std_payout": 11381.3,
+   "prob_payout": 0.285,
+   "var": 75000.0,
+   "cvar": 75262.7,
+   "pure_premium": 4390.2,
+   "standalone_capital": 70872.6,
+   "allocated_capital": 25802.1,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.02927,
+   "commercial_premium": 9293.8,
+   "commercial_rate": 0.06196,
+   "wang_premium": 8848.9,
+   "subsidy": 7435.1,
+   "farmer_premium": 1858.8,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.03129,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 24,
+  "crop": "coton",
+  "trigger": [
+   171.1,
+   193.2,
+   236.0,
+   133.5
+  ],
+  "exit": [
+   85.5,
+   96.6,
+   118.0,
+   66.7
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.04666,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 16,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 3055.2,
+   "std_payout": 8136.9,
+   "prob_payout": 0.2642,
+   "var": 49140.3,
+   "cvar": 64064.4,
+   "pure_premium": 3055.2,
+   "standalone_capital": 61009.2,
+   "allocated_capital": 22211.2,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.02037,
+   "commercial_premium": 7035.1,
+   "commercial_rate": 0.0469,
+   "wang_premium": 6198.6,
+   "subsidy": 5628.0,
+   "farmer_premium": 1407.0,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.04666,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 25,
+  "crop": "coton",
+  "trigger": [
+   148.8,
+   215.9,
+   283.3,
+   82.0
+  ],
+  "exit": [
+   74.4,
+   108.0,
+   141.6,
+   41.0
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.04668,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 17,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 3613.0,
+   "std_payout": 10137.8,
+   "prob_payout": 0.2576,
+   "var": 71061.5,
+   "cvar": 74671.3,
+   "pure_premium": 3613.0,
+   "standalone_capital": 71058.3,
+   "allocated_capital": 25869.7,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.02409,
+   "commercial_premium": 8266.7,
+   "commercial_rate": 0.05511,
+   "wang_premium": 7398.3,
+   "subsidy": 6613.3,
+   "farmer_premium": 1653.3,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.04668,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 26,
+  "crop": "coton",
+  "trigger": [
+   157.4,
+   222.4,
+   273.7,
+   112.5
+  ],
+  "exit": [
+   78.7,
+   111.2,
+   136.9,
+   56.2
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.04782,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 16,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 4817.6,
+   "std_payout": 11242.9,
+   "prob_payout": 0.3213,
+   "var": 74327.4,
+   "cvar": 75239.7,
+   "pure_premium": 4817.6,
+   "standalone_capital": 70422.1,
+   "allocated_capital": 25638.1,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03212,
+   "commercial_premium": 9841.9,
+   "commercial_rate": 0.06561,
+   "wang_premium": 9509.5,
+   "subsidy": 7873.5,
+   "farmer_premium": 1968.4,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.04782,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 27,
+  "crop": "coton",
+  "trigger": [
+   164.1,
+   228.2,
+   265.6,
+   98.0
+  ],
+  "exit": [
+   82.0,
+   114.1,
+   132.8,
+   49.0
+  ],
+  "weights": [
+   0.2,
+   0.3,
+   0.5,
+   0.0
+  ],
+  "sum_insured_ha": 150000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.5,
+  "burn_rate": 0.04052,
+  "ce_gain": 0.0,
+  "ce_gain_pct": 0.0,
+  "basis_risk": {
+   "correlation": null,
+   "false_negative_rate": null,
+   "false_positive_rate": null,
+   "n_loss_years": 0,
+   "n_paid_years": 16,
+   "n_years": 45
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et formation",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 150000.0,
+   "expected_payout": 3787.8,
+   "std_payout": 9478.2,
+   "prob_payout": 0.3025,
+   "var": 59661.6,
+   "cvar": 70769.7,
+   "pure_premium": 3787.8,
+   "standalone_capital": 66981.9,
+   "allocated_capital": 24385.6,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.02525,
+   "commercial_premium": 8301.8,
+   "commercial_rate": 0.05535,
+   "wang_premium": 7585.5,
+   "subsidy": 6641.4,
+   "farmer_premium": 1660.4,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.04052,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 1,
+  "crop": "mais",
+  "trigger": [
+   110.7,
+   180.0,
+   247.4,
+   120.2
+  ],
+  "exit": [
+   33.2,
+   54.0,
+   74.2,
+   36.1
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.25,
+  "exit_ratio": 0.3,
+  "burn_rate": 0.06316,
+  "ce_gain": 4224.7,
+  "ce_gain_pct": 0.019,
+  "basis_risk": {
+   "correlation": 0.159,
+   "false_negative_rate": 0.0,
+   "false_positive_rate": 0.632,
+   "n_loss_years": 1,
+   "n_paid_years": 19,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 4692.4,
+   "std_payout": 6549.7,
+   "prob_payout": 0.663,
+   "var": 35610.6,
+   "cvar": 39521.6,
+   "pure_premium": 4692.4,
+   "standalone_capital": 34829.2,
+   "allocated_capital": 12680.0,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.04692,
+   "commercial_premium": 7947.2,
+   "commercial_rate": 0.07947,
+   "wang_premium": 8317.8,
+   "subsidy": 6357.8,
+   "farmer_premium": 1589.4,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06316,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 2,
+  "crop": "mais",
+  "trigger": [
+   107.4,
+   190.4,
+   296.2,
+   175.1
+  ],
+  "exit": [
+   37.6,
+   66.6,
+   103.7,
+   61.3
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.25,
+  "exit_ratio": 0.35,
+  "burn_rate": 0.06289,
+  "ce_gain": 2594.5,
+  "ce_gain_pct": 0.0097,
+  "basis_risk": {
+   "correlation": -0.129,
+   "false_negative_rate": null,
+   "false_positive_rate": 0.722,
+   "n_loss_years": 0,
+   "n_paid_years": 18,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 5963.2,
+   "std_payout": 6912.7,
+   "prob_payout": 0.7418,
+   "var": 33652.7,
+   "cvar": 37673.3,
+   "pure_premium": 5963.2,
+   "standalone_capital": 31710.1,
+   "allocated_capital": 11544.5,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.05963,
+   "commercial_premium": 9490.2,
+   "commercial_rate": 0.0949,
+   "wang_premium": 10208.9,
+   "subsidy": 7592.1,
+   "farmer_premium": 1898.0,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.0629,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 3,
+  "crop": "mais",
+  "trigger": [
+   87.5,
+   169.4,
+   209.0,
+   64.7
+  ],
+  "exit": [
+   65.6,
+   127.0,
+   156.7,
+   48.6
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.1,
+  "exit_ratio": 0.75,
+  "burn_rate": 0.0628,
+  "ce_gain": 2738.7,
+  "ce_gain_pct": 0.0101,
+  "basis_risk": {
+   "correlation": -0.13,
+   "false_negative_rate": null,
+   "false_positive_rate": 0.75,
+   "n_loss_years": 0,
+   "n_paid_years": 8,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 3954.6,
+   "std_payout": 8772.6,
+   "prob_payout": 0.3,
+   "var": 55000.0,
+   "cvar": 55150.3,
+   "pure_premium": 3954.6,
+   "standalone_capital": 51195.6,
+   "allocated_capital": 18638.4,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03955,
+   "commercial_premium": 7758.0,
+   "commercial_rate": 0.07758,
+   "wang_premium": 7726.1,
+   "subsidy": 6206.4,
+   "farmer_premium": 1551.6,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06283,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 4,
+  "crop": "mais",
+  "trigger": [
+   99.5,
+   146.8,
+   162.6,
+   5.7
+  ],
+  "exit": [
+   54.7,
+   80.8,
+   89.4,
+   3.2
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.55,
+  "burn_rate": 0.06321,
+  "ce_gain": 4241.9,
+  "ce_gain_pct": 0.0219,
+  "basis_risk": {
+   "correlation": -0.107,
+   "false_negative_rate": null,
+   "false_positive_rate": 0.75,
+   "n_loss_years": 0,
+   "n_paid_years": 12,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 4818.8,
+   "std_payout": 9445.4,
+   "prob_payout": 0.3744,
+   "var": 45765.9,
+   "cvar": 50846.1,
+   "pure_premium": 4818.8,
+   "standalone_capital": 46027.4,
+   "allocated_capital": 16756.9,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.04819,
+   "commercial_premium": 8659.3,
+   "commercial_rate": 0.08659,
+   "wang_premium": 9175.2,
+   "subsidy": 6927.4,
+   "farmer_premium": 1731.9,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.0632,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 5,
+  "crop": "mais",
+  "trigger": [
+   79.5,
+   152.5,
+   192.3,
+   21.8
+  ],
+  "exit": [
+   59.6,
+   114.4,
+   144.2,
+   16.3
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.1,
+  "exit_ratio": 0.75,
+  "burn_rate": 0.06333,
+  "ce_gain": 4003.7,
+  "ce_gain_pct": 0.0188,
+  "basis_risk": {
+   "correlation": -0.26,
+   "false_negative_rate": 1.0,
+   "false_positive_rate": 0.875,
+   "n_loss_years": 1,
+   "n_paid_years": 8,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 4620.3,
+   "std_payout": 11161.5,
+   "prob_payout": 0.2608,
+   "var": 55000.0,
+   "cvar": 55024.4,
+   "pure_premium": 4620.3,
+   "standalone_capital": 50404.1,
+   "allocated_capital": 18350.3,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.0462,
+   "commercial_premium": 8607.1,
+   "commercial_rate": 0.08607,
+   "wang_premium": 9161.2,
+   "subsidy": 6885.7,
+   "farmer_premium": 1721.4,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06327,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 6,
+  "crop": "mais",
+  "trigger": [
+   101.6,
+   177.3,
+   301.0,
+   176.5
+  ],
+  "exit": [
+   40.6,
+   70.9,
+   120.4,
+   70.6
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.25,
+  "exit_ratio": 0.4,
+  "burn_rate": 0.06439,
+  "ce_gain": 3531.1,
+  "ce_gain_pct": 0.0139,
+  "basis_risk": {
+   "correlation": 0.054,
+   "false_negative_rate": 0.0,
+   "false_positive_rate": 0.667,
+   "n_loss_years": 1,
+   "n_paid_years": 18,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 5385.2,
+   "std_payout": 7201.5,
+   "prob_payout": 0.6623,
+   "var": 37869.0,
+   "cvar": 43691.6,
+   "pure_premium": 5385.2,
+   "standalone_capital": 38306.4,
+   "allocated_capital": 13946.0,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.05385,
+   "commercial_premium": 9039.8,
+   "commercial_rate": 0.0904,
+   "wang_premium": 9477.7,
+   "subsidy": 7231.8,
+   "farmer_premium": 1808.0,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06438,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 7,
+  "crop": "mais",
+  "trigger": [
+   118.4,
+   192.7,
+   272.5,
+   195.0
+  ],
+  "exit": [
+   41.4,
+   67.5,
+   95.4,
+   68.3
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.3,
+  "exit_ratio": 0.35,
+  "burn_rate": 0.06265,
+  "ce_gain": 1646.4,
+  "ce_gain_pct": 0.0067,
+  "basis_risk": {
+   "correlation": -0.16,
+   "false_negative_rate": 0.0,
+   "false_positive_rate": 0.684,
+   "n_loss_years": 1,
+   "n_paid_years": 19,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 4787.4,
+   "std_payout": 5766.7,
+   "prob_payout": 0.7259,
+   "var": 28009.0,
+   "cvar": 33002.4,
+   "pure_premium": 4787.4,
+   "standalone_capital": 28215.0,
+   "allocated_capital": 10272.0,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.04787,
+   "commercial_premium": 7752.9,
+   "commercial_rate": 0.07753,
+   "wang_premium": 8255.9,
+   "subsidy": 6202.3,
+   "farmer_premium": 1550.6,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06265,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 8,
+  "crop": "mais",
+  "trigger": [
+   112.2,
+   175.1,
+   266.6,
+   203.8
+  ],
+  "exit": [
+   44.9,
+   70.0,
+   106.6,
+   81.5
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.25,
+  "exit_ratio": 0.4,
+  "burn_rate": 0.06353,
+  "ce_gain": 1740.0,
+  "ce_gain_pct": 0.0081,
+  "basis_risk": {
+   "correlation": -0.303,
+   "false_negative_rate": null,
+   "false_positive_rate": 0.765,
+   "n_loss_years": 0,
+   "n_paid_years": 17,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 4641.9,
+   "std_payout": 5863.6,
+   "prob_payout": 0.6925,
+   "var": 28901.0,
+   "cvar": 32391.1,
+   "pure_premium": 4641.9,
+   "standalone_capital": 27749.2,
+   "allocated_capital": 10102.5,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.04642,
+   "commercial_premium": 7536.2,
+   "commercial_rate": 0.07536,
+   "wang_premium": 8079.7,
+   "subsidy": 6028.9,
+   "farmer_premium": 1507.2,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06353,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 9,
+  "crop": "mais",
+  "trigger": [
+   120.4,
+   180.4,
+   250.5,
+   182.0
+  ],
+  "exit": [
+   42.1,
+   63.1,
+   87.7,
+   63.7
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.25,
+  "exit_ratio": 0.35,
+  "burn_rate": 0.06361,
+  "ce_gain": 1642.1,
+  "ce_gain_pct": 0.0065,
+  "basis_risk": {
+   "correlation": -0.296,
+   "false_negative_rate": null,
+   "false_positive_rate": 0.8,
+   "n_loss_years": 0,
+   "n_paid_years": 15,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 3603.3,
+   "std_payout": 5262.3,
+   "prob_payout": 0.5899,
+   "var": 26244.3,
+   "cvar": 30810.4,
+   "pure_premium": 3603.3,
+   "standalone_capital": 27207.1,
+   "allocated_capital": 9905.1,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03603,
+   "commercial_premium": 6125.1,
+   "commercial_rate": 0.06125,
+   "wang_premium": 6459.5,
+   "subsidy": 4900.1,
+   "farmer_premium": 1225.0,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06361,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 10,
+  "crop": "mais",
+  "trigger": [
+   128.2,
+   188.2,
+   257.7,
+   212.5
+  ],
+  "exit": [
+   38.5,
+   56.5,
+   77.3,
+   63.7
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.3,
+  "exit_ratio": 0.3,
+  "burn_rate": 0.0616,
+  "ce_gain": 2754.4,
+  "ce_gain_pct": 0.0122,
+  "basis_risk": {
+   "correlation": 0.189,
+   "false_negative_rate": null,
+   "false_positive_rate": 0.619,
+   "n_loss_years": 0,
+   "n_paid_years": 21,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 4281.0,
+   "std_payout": 5346.3,
+   "prob_payout": 0.7155,
+   "var": 26192.6,
+   "cvar": 29965.8,
+   "pure_premium": 4281.0,
+   "standalone_capital": 25684.8,
+   "allocated_capital": 9350.9,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.04281,
+   "commercial_premium": 6954.8,
+   "commercial_rate": 0.06955,
+   "wang_premium": 7434.5,
+   "subsidy": 5563.8,
+   "farmer_premium": 1391.0,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.0616,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 11,
+  "crop": "mais",
+  "trigger": [
+   119.9,
+   163.9,
+   205.9,
+   165.1
+  ],
+  "exit": [
+   36.0,
+   49.2,
+   61.8,
+   49.5
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.2,
+  "exit_ratio": 0.3,
+  "burn_rate": 0.06174,
+  "ce_gain": 1419.9,
+  "ce_gain_pct": 0.0062,
+  "basis_risk": {
+   "correlation": -0.338,
+   "false_negative_rate": null,
+   "false_positive_rate": 0.75,
+   "n_loss_years": 0,
+   "n_paid_years": 16,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 2260.9,
+   "std_payout": 3923.8,
+   "prob_payout": 0.4748,
+   "var": 20645.2,
+   "cvar": 23872.1,
+   "pure_premium": 2260.9,
+   "standalone_capital": 21611.2,
+   "allocated_capital": 7867.8,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.02261,
+   "commercial_premium": 4063.6,
+   "commercial_rate": 0.04064,
+   "wang_premium": 4200.2,
+   "subsidy": 3250.9,
+   "farmer_premium": 812.7,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06173,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 12,
+  "crop": "mais",
+  "trigger": [
+   123.5,
+   171.7,
+   238.2,
+   189.5
+  ],
+  "exit": [
+   43.2,
+   60.1,
+   83.4,
+   66.3
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.3,
+  "exit_ratio": 0.35,
+  "burn_rate": 0.06404,
+  "ce_gain": 2947.4,
+  "ce_gain_pct": 0.0131,
+  "basis_risk": {
+   "correlation": 0.052,
+   "false_negative_rate": null,
+   "false_positive_rate": 0.565,
+   "n_loss_years": 0,
+   "n_paid_years": 23,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 4269.8,
+   "std_payout": 5642.4,
+   "prob_payout": 0.6712,
+   "var": 27245.6,
+   "cvar": 31470.9,
+   "pure_premium": 4269.8,
+   "standalone_capital": 27201.2,
+   "allocated_capital": 9902.9,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.0427,
+   "commercial_premium": 7013.4,
+   "commercial_rate": 0.07013,
+   "wang_premium": 7500.1,
+   "subsidy": 5610.7,
+   "farmer_premium": 1402.7,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06405,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 13,
+  "crop": "mais",
+  "trigger": [
+   121.9,
+   200.5,
+   266.9,
+   152.7
+  ],
+  "exit": [
+   54.9,
+   90.2,
+   120.1,
+   68.7
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.25,
+  "exit_ratio": 0.45,
+  "burn_rate": 0.06433,
+  "ce_gain": 1980.4,
+  "ce_gain_pct": 0.0079,
+  "basis_risk": {
+   "correlation": -0.187,
+   "false_negative_rate": 0.5,
+   "false_positive_rate": 0.625,
+   "n_loss_years": 2,
+   "n_paid_years": 16,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 5002.3,
+   "std_payout": 6580.1,
+   "prob_payout": 0.6558,
+   "var": 32911.9,
+   "cvar": 38724.8,
+   "pure_premium": 5002.3,
+   "standalone_capital": 33722.4,
+   "allocated_capital": 12277.1,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.05002,
+   "commercial_premium": 8306.7,
+   "commercial_rate": 0.08307,
+   "wang_premium": 8778.5,
+   "subsidy": 6645.4,
+   "farmer_premium": 1661.3,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06433,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 14,
+  "crop": "mais",
+  "trigger": [
+   108.9,
+   164.6,
+   198.1,
+   177.4
+  ],
+  "exit": [
+   43.6,
+   65.9,
+   79.2,
+   71.0
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.2,
+  "exit_ratio": 0.4,
+  "burn_rate": 0.06294,
+  "ce_gain": 1847.7,
+  "ce_gain_pct": 0.0084,
+  "basis_risk": {
+   "correlation": -0.197,
+   "false_negative_rate": 0.5,
+   "false_positive_rate": 0.688,
+   "n_loss_years": 2,
+   "n_paid_years": 16,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 2462.5,
+   "std_payout": 4421.5,
+   "prob_payout": 0.4406,
+   "var": 22628.2,
+   "cvar": 27318.4,
+   "pure_premium": 2462.5,
+   "standalone_capital": 24855.8,
+   "allocated_capital": 9049.1,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.02463,
+   "commercial_premium": 4489.9,
+   "commercial_rate": 0.0449,
+   "wang_premium": 4607.7,
+   "subsidy": 3591.9,
+   "farmer_premium": 898.0,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06289,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 15,
+  "crop": "mais",
+  "trigger": [
+   114.8,
+   159.5,
+   231.4,
+   196.2
+  ],
+  "exit": [
+   34.4,
+   47.9,
+   69.4,
+   58.9
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.25,
+  "exit_ratio": 0.3,
+  "burn_rate": 0.06351,
+  "ce_gain": 2893.5,
+  "ce_gain_pct": 0.013,
+  "basis_risk": {
+   "correlation": -0.018,
+   "false_negative_rate": 0.333,
+   "false_positive_rate": 0.611,
+   "n_loss_years": 3,
+   "n_paid_years": 18,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 3687.0,
+   "std_payout": 4577.0,
+   "prob_payout": 0.7023,
+   "var": 23092.3,
+   "cvar": 27213.7,
+   "pure_premium": 3687.0,
+   "standalone_capital": 23526.8,
+   "allocated_capital": 8565.2,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03687,
+   "commercial_premium": 6058.0,
+   "commercial_rate": 0.06058,
+   "wang_premium": 6394.7,
+   "subsidy": 4846.4,
+   "farmer_premium": 1211.6,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.0635,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 16,
+  "crop": "mais",
+  "trigger": [
+   113.1,
+   159.8,
+   235.5,
+   133.7
+  ],
+  "exit": [
+   39.6,
+   55.9,
+   82.4,
+   46.8
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.3,
+  "exit_ratio": 0.35,
+  "burn_rate": 0.06183,
+  "ce_gain": 2123.9,
+  "ce_gain_pct": 0.0072,
+  "basis_risk": {
+   "correlation": -0.168,
+   "false_negative_rate": 0.0,
+   "false_positive_rate": 0.682,
+   "n_loss_years": 1,
+   "n_paid_years": 22,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 4744.6,
+   "std_payout": 5945.7,
+   "prob_payout": 0.6884,
+   "var": 29132.3,
+   "cvar": 32865.4,
+   "pure_premium": 4744.6,
+   "standalone_capital": 28120.8,
+   "allocated_capital": 10237.8,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.04745,
+   "commercial_premium": 7691.2,
+   "commercial_rate": 0.07691,
+   "wang_premium": 8245.0,
+   "subsidy": 6152.9,
+   "farmer_premium": 1538.2,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06181,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 17,
+  "crop": "mais",
+  "trigger": [
+   116.9,
+   184.0,
+   276.6,
+   120.8
+  ],
+  "exit": [
+   35.1,
+   55.2,
+   83.0,
+   36.2
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.25,
+  "exit_ratio": 0.3,
+  "burn_rate": 0.06214,
+  "ce_gain": 1576.4,
+  "ce_gain_pct": 0.006,
+  "basis_risk": {
+   "correlation": -0.376,
+   "false_negative_rate": 1.0,
+   "false_positive_rate": 0.938,
+   "n_loss_years": 2,
+   "n_paid_years": 16,
+   "n_years": 28
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 4398.1,
+   "std_payout": 6273.4,
+   "prob_payout": 0.6417,
+   "var": 33950.0,
+   "cvar": 37747.7,
+   "pure_premium": 4398.1,
+   "standalone_capital": 33349.6,
+   "allocated_capital": 12141.4,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.04398,
+   "commercial_premium": 7483.0,
+   "commercial_rate": 0.07483,
+   "wang_premium": 7835.1,
+   "subsidy": 5986.4,
+   "farmer_premium": 1496.6,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06214,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 18,
+  "crop": "mais",
+  "trigger": [
+   118.1,
+   179.4,
+   296.3,
+   218.7
+  ],
+  "exit": [
+   41.3,
+   62.8,
+   103.7,
+   76.6
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.3,
+  "exit_ratio": 0.35,
+  "burn_rate": 0.06337,
+  "ce_gain": 2165.1,
+  "ce_gain_pct": 0.0078,
+  "basis_risk": {
+   "correlation": -0.248,
+   "false_negative_rate": 0.0,
+   "false_positive_rate": 0.727,
+   "n_loss_years": 1,
+   "n_paid_years": 22,
+   "n_years": 28
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 4825.4,
+   "std_payout": 5829.6,
+   "prob_payout": 0.7391,
+   "var": 30145.2,
+   "cvar": 35171.2,
+   "pure_premium": 4825.4,
+   "standalone_capital": 30345.8,
+   "allocated_capital": 11047.8,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.04825,
+   "commercial_premium": 7906.9,
+   "commercial_rate": 0.07907,
+   "wang_premium": 8321.8,
+   "subsidy": 6325.5,
+   "farmer_premium": 1581.4,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06335,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 19,
+  "crop": "mais",
+  "trigger": [
+   109.1,
+   163.1,
+   238.1,
+   97.9
+  ],
+  "exit": [
+   43.6,
+   65.2,
+   95.2,
+   39.2
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.25,
+  "exit_ratio": 0.4,
+  "burn_rate": 0.06155,
+  "ce_gain": 2948.3,
+  "ce_gain_pct": 0.0128,
+  "basis_risk": {
+   "correlation": -0.108,
+   "false_negative_rate": 0.5,
+   "false_positive_rate": 0.714,
+   "n_loss_years": 4,
+   "n_paid_years": 21,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 5472.8,
+   "std_payout": 7528.6,
+   "prob_payout": 0.635,
+   "var": 37545.4,
+   "cvar": 40522.7,
+   "pure_premium": 5472.8,
+   "standalone_capital": 35050.0,
+   "allocated_capital": 12760.4,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.05473,
+   "commercial_premium": 8998.4,
+   "commercial_rate": 0.08998,
+   "wang_premium": 9687.3,
+   "subsidy": 7198.7,
+   "farmer_premium": 1799.7,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06153,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 20,
+  "crop": "mais",
+  "trigger": [
+   119.9,
+   175.9,
+   267.2,
+   201.8
+  ],
+  "exit": [
+   36.0,
+   52.8,
+   80.2,
+   60.5
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.3,
+  "exit_ratio": 0.3,
+  "burn_rate": 0.0618,
+  "ce_gain": 2448.5,
+  "ce_gain_pct": 0.0104,
+  "basis_risk": {
+   "correlation": -0.336,
+   "false_negative_rate": 0.0,
+   "false_positive_rate": 0.727,
+   "n_loss_years": 1,
+   "n_paid_years": 22,
+   "n_years": 28
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 4113.5,
+   "std_payout": 5276.7,
+   "prob_payout": 0.6882,
+   "var": 26662.6,
+   "cvar": 30206.0,
+   "pure_premium": 4113.5,
+   "standalone_capital": 26092.5,
+   "allocated_capital": 9499.3,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.04113,
+   "commercial_premium": 6751.2,
+   "commercial_rate": 0.06751,
+   "wang_premium": 7181.3,
+   "subsidy": 5401.0,
+   "farmer_premium": 1350.2,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06181,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 21,
+  "crop": "mais",
+  "trigger": [
+   116.5,
+   189.2,
+   277.7,
+   213.5
+  ],
+  "exit": [
+   34.9,
+   56.7,
+   83.3,
+   64.1
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.3,
+  "exit_ratio": 0.3,
+  "burn_rate": 0.06345,
+  "ce_gain": 3216.4,
+  "ce_gain_pct": 0.0101,
+  "basis_risk": {
+   "correlation": -0.037,
+   "false_negative_rate": 0.0,
+   "false_positive_rate": 0.5,
+   "n_loss_years": 1,
+   "n_paid_years": 20,
+   "n_years": 28
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 4961.2,
+   "std_payout": 5441.2,
+   "prob_payout": 0.8017,
+   "var": 26755.1,
+   "cvar": 31535.2,
+   "pure_premium": 4961.2,
+   "standalone_capital": 26574.0,
+   "allocated_capital": 9674.6,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.04961,
+   "commercial_premium": 7904.9,
+   "commercial_rate": 0.07905,
+   "wang_premium": 8400.1,
+   "subsidy": 6323.9,
+   "farmer_premium": 1581.0,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06347,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 22,
+  "crop": "mais",
+  "trigger": [
+   115.5,
+   175.6,
+   254.6,
+   104.6
+  ],
+  "exit": [
+   34.7,
+   52.7,
+   76.4,
+   31.4
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.3,
+  "exit_ratio": 0.3,
+  "burn_rate": 0.06426,
+  "ce_gain": 3357.5,
+  "ce_gain_pct": 0.0129,
+  "basis_risk": {
+   "correlation": 0.216,
+   "false_negative_rate": 0.0,
+   "false_positive_rate": 0.783,
+   "n_loss_years": 1,
+   "n_paid_years": 23,
+   "n_years": 28
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 5972.5,
+   "std_payout": 7633.7,
+   "prob_payout": 0.7083,
+   "var": 36228.8,
+   "cvar": 39693.5,
+   "pure_premium": 5972.5,
+   "standalone_capital": 33721.0,
+   "allocated_capital": 12276.6,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.05973,
+   "commercial_premium": 9600.2,
+   "commercial_rate": 0.096,
+   "wang_premium": 10413.6,
+   "subsidy": 7680.2,
+   "farmer_premium": 1920.0,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06425,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 23,
+  "crop": "mais",
+  "trigger": [
+   107.0,
+   173.3,
+   261.1,
+   201.5
+  ],
+  "exit": [
+   32.1,
+   52.0,
+   78.3,
+   60.4
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.3,
+  "exit_ratio": 0.3,
+  "burn_rate": 0.06267,
+  "ce_gain": 2774.0,
+  "ce_gain_pct": 0.0105,
+  "basis_risk": {
+   "correlation": -0.27,
+   "false_negative_rate": 1.0,
+   "false_positive_rate": 0.696,
+   "n_loss_years": 1,
+   "n_paid_years": 23,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 4222.3,
+   "std_payout": 5255.2,
+   "prob_payout": 0.7086,
+   "var": 26728.9,
+   "cvar": 32320.8,
+   "pure_premium": 4222.3,
+   "standalone_capital": 28098.5,
+   "allocated_capital": 10229.6,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.04222,
+   "commercial_premium": 6993.7,
+   "commercial_rate": 0.06994,
+   "wang_premium": 7325.4,
+   "subsidy": 5594.9,
+   "farmer_premium": 1398.7,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06265,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 24,
+  "crop": "mais",
+  "trigger": [
+   126.3,
+   183.9,
+   229.2,
+   176.9
+  ],
+  "exit": [
+   37.9,
+   55.2,
+   68.8,
+   53.1
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.25,
+  "exit_ratio": 0.3,
+  "burn_rate": 0.0632,
+  "ce_gain": 2395.7,
+  "ce_gain_pct": 0.009,
+  "basis_risk": {
+   "correlation": -0.09,
+   "false_negative_rate": 0.2,
+   "false_positive_rate": 0.611,
+   "n_loss_years": 5,
+   "n_paid_years": 18,
+   "n_years": 29
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 3305.6,
+   "std_payout": 5087.0,
+   "prob_payout": 0.5745,
+   "var": 25722.7,
+   "cvar": 30873.7,
+   "pure_premium": 3305.6,
+   "standalone_capital": 27568.1,
+   "allocated_capital": 10036.5,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03306,
+   "commercial_premium": 5745.7,
+   "commercial_rate": 0.05746,
+   "wang_premium": 5987.9,
+   "subsidy": 4596.6,
+   "farmer_premium": 1149.1,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.0632,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 25,
+  "crop": "mais",
+  "trigger": [
+   106.8,
+   170.2,
+   235.1,
+   164.9
+  ],
+  "exit": [
+   64.1,
+   102.1,
+   141.0,
+   98.9
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.6,
+  "burn_rate": 0.05913,
+  "ce_gain": 3606.7,
+  "ce_gain_pct": 0.0164,
+  "basis_risk": {
+   "correlation": 0.125,
+   "false_negative_rate": null,
+   "false_positive_rate": 0.714,
+   "n_loss_years": 0,
+   "n_paid_years": 14,
+   "n_years": 28
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 3320.8,
+   "std_payout": 5797.8,
+   "prob_payout": 0.445,
+   "var": 31163.9,
+   "cvar": 37647.5,
+   "pure_premium": 3320.8,
+   "standalone_capital": 34326.7,
+   "allocated_capital": 12497.1,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03321,
+   "commercial_premium": 6094.0,
+   "commercial_rate": 0.06094,
+   "wang_premium": 6175.0,
+   "subsidy": 4875.2,
+   "farmer_premium": 1218.8,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.05911,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 26,
+  "crop": "mais",
+  "trigger": [
+   104.0,
+   162.8,
+   226.2,
+   144.8
+  ],
+  "exit": [
+   83.2,
+   130.2,
+   180.9,
+   115.8
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.1,
+  "exit_ratio": 0.8,
+  "burn_rate": 0.06274,
+  "ce_gain": 3230.4,
+  "ce_gain_pct": 0.0127,
+  "basis_risk": {
+   "correlation": -0.221,
+   "false_negative_rate": 1.0,
+   "false_positive_rate": 0.909,
+   "n_loss_years": 2,
+   "n_paid_years": 11,
+   "n_years": 28
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 3557.4,
+   "std_payout": 7824.8,
+   "prob_payout": 0.3074,
+   "var": 45542.1,
+   "cvar": 53823.6,
+   "pure_premium": 3557.4,
+   "standalone_capital": 50266.2,
+   "allocated_capital": 18300.1,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03557,
+   "commercial_premium": 7183.2,
+   "commercial_rate": 0.07183,
+   "wang_premium": 6937.3,
+   "subsidy": 5746.5,
+   "farmer_premium": 1436.6,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06275,
+   "n_sims": 10000
+  }
+ },
+ {
+  "commune_id": 27,
+  "crop": "mais",
+  "trigger": [
+   102.9,
+   179.6,
+   254.8,
+   149.2
+  ],
+  "exit": [
+   61.7,
+   107.8,
+   152.9,
+   89.5
+  ],
+  "weights": [
+   0.15,
+   0.3,
+   0.45,
+   0.1
+  ],
+  "sum_insured_ha": 100000.0,
+  "trigger_quantile": 0.15,
+  "exit_ratio": 0.6,
+  "burn_rate": 0.06307,
+  "ce_gain": 3251.6,
+  "ce_gain_pct": 0.0154,
+  "basis_risk": {
+   "correlation": 0.105,
+   "false_negative_rate": 0.0,
+   "false_positive_rate": 0.818,
+   "n_loss_years": 2,
+   "n_paid_years": 11,
+   "n_years": 28
+  },
+  "validated": false,
+  "phase_names": [
+   "Semis et levée",
+   "Croissance végétative",
+   "Floraison et remplissage",
+   "Maturation"
+  ],
+  "pricing": {
+   "sum_insured": 100000.0,
+   "expected_payout": 3798.1,
+   "std_payout": 6787.1,
+   "prob_payout": 0.4384,
+   "var": 36344.6,
+   "cvar": 42152.9,
+   "pure_premium": 3798.1,
+   "standalone_capital": 38354.8,
+   "allocated_capital": 13963.6,
+   "diversification_factor": 0.3641,
+   "pure_rate": 0.03798,
+   "commercial_premium": 6926.0,
+   "commercial_rate": 0.06926,
+   "wang_premium": 7099.0,
+   "subsidy": 5540.8,
+   "farmer_premium": 1385.2,
+   "params": {
+    "subsidy_rate": 0.8,
+    "expense_rate": 0.25,
+    "cost_of_capital": 0.1,
+    "level": 0.995,
+    "wang_lambda": 0.25,
+    "diversification": 0.36406320809164394
+   },
+   "burn_rate_historical": 0.06304,
+   "n_sims": 10000
+  }
+ }
+]

@@ -1,0 +1,266 @@
+{
+ "data_source": "reel",
+ "years": [
+  1981,
+  2025
+ ],
+ "n_communes": 27,
+ "generated_at": "2026-11-07 13:49:20",
+ "n_sims": 10000,
+ "duration_s": 66.7,
+ "communes": [
+  {
+   "id": 1,
+   "name": "Banikoara",
+   "department": "Alibori",
+   "lat": 11.3453,
+   "lon": 2.4047
+  },
+  {
+   "id": 2,
+   "name": "Gogounou",
+   "department": "Alibori",
+   "lat": 10.7694,
+   "lon": 2.6984
+  },
+  {
+   "id": 3,
+   "name": "Kandi",
+   "department": "Alibori",
+   "lat": 11.2104,
+   "lon": 2.9665
+  },
+  {
+   "id": 4,
+   "name": "Karimama",
+   "department": "Alibori",
+   "lat": 11.9497,
+   "lon": 2.7493
+  },
+  {
+   "id": 5,
+   "name": "Malanville",
+   "department": "Alibori",
+   "lat": 11.6587,
+   "lon": 3.2633
+  },
+  {
+   "id": 6,
+   "name": "Ségbana",
+   "department": "Alibori",
+   "lat": 10.9355,
+   "lon": 3.4676
+  },
+  {
+   "id": 7,
+   "name": "Bembèrèkè",
+   "department": "Borgou",
+   "lat": 10.2714,
+   "lon": 2.7494
+  },
+  {
+   "id": 8,
+   "name": "Kalalé",
+   "department": "Borgou",
+   "lat": 10.3657,
+   "lon": 3.3926
+  },
+  {
+   "id": 9,
+   "name": "N'Dali",
+   "department": "Borgou",
+   "lat": 9.7247,
+   "lon": 2.4669
+  },
+  {
+   "id": 10,
+   "name": "Nikki",
+   "department": "Borgou",
+   "lat": 9.9493,
+   "lon": 3.19
+  },
+  {
+   "id": 11,
+   "name": "Parakou",
+   "department": "Borgou",
+   "lat": 9.3469,
+   "lon": 2.6032
+  },
+  {
+   "id": 12,
+   "name": "Pèrèrè",
+   "department": "Borgou",
+   "lat": 9.5916,
+   "lon": 2.9858
+  },
+  {
+   "id": 13,
+   "name": "Sinendé",
+   "department": "Borgou",
+   "lat": 10.247,
+   "lon": 2.3464
+  },
+  {
+   "id": 14,
+   "name": "Tchaourou",
+   "department": "Borgou",
+   "lat": 9.1617,
+   "lon": 2.4946
+  },
+  {
+   "id": 15,
+   "name": "Boukoumbé",
+   "department": "Atacora",
+   "lat": 10.2503,
+   "lon": 1.1337
+  },
+  {
+   "id": 16,
+   "name": "Cobly",
+   "department": "Atacora",
+   "lat": 10.4724,
+   "lon": 0.9052
+  },
+  {
+   "id": 17,
+   "name": "Kérou",
+   "department": "Atacora",
+   "lat": 10.9357,
+   "lon": 2.0055
+  },
+  {
+   "id": 18,
+   "name": "Kouandé",
+   "department": "Atacora",
+   "lat": 10.4261,
+   "lon": 1.7211
+  },
+  {
+   "id": 19,
+   "name": "Matéri",
+   "department": "Atacora",
+   "lat": 10.7916,
+   "lon": 1.0281
+  },
+  {
+   "id": 20,
+   "name": "Natitingou",
+   "department": "Atacora",
+   "lat": 10.2421,
+   "lon": 1.4068
+  },
+  {
+   "id": 21,
+   "name": "Péhunco",
+   "department": "Atacora",
+   "lat": 10.2562,
+   "lon": 2.0318
+  },
+  {
+   "id": 22,
+   "name": "Tanguiéta",
+   "department": "Atacora",
+   "lat": 11.0302,
+   "lon": 1.4378
+  },
+  {
+   "id": 23,
+   "name": "Toucountouna",
+   "department": "Atacora",
+   "lat": 10.5253,
+   "lon": 1.4642
+  },
+  {
+   "id": 24,
+   "name": "Bassila",
+   "department": "Donga",
+   "lat": 8.9652,
+   "lon": 1.8606
+  },
+  {
+   "id": 25,
+   "name": "Copargo",
+   "department": "Donga",
+   "lat": 9.8728,
+   "lon": 1.5435
+  },
+  {
+   "id": 26,
+   "name": "Djougou",
+   "department": "Donga",
+   "lat": 9.6735,
+   "lon": 1.853
+  },
+  {
+   "id": 27,
+   "name": "Ouaké",
+   "department": "Donga",
+   "lat": 9.59,
+   "lon": 1.4388
+  }
+ ],
+ "crops": {
+  "coton": {
+   "label": "Coton",
+   "phase_names": [
+    "Semis et levée",
+    "Croissance végétative",
+    "Floraison et formation",
+    "Maturation"
+   ],
+   "phase_weights": [
+    0.2,
+    0.3,
+    0.5,
+    0.0
+   ],
+   "price": 300.0,
+   "sum_insured_ha": 150000.0,
+   "phase_lengths": [
+    40,
+    40,
+    40,
+    45
+   ],
+   "sowing_window": [
+    140,
+    191
+   ]
+  },
+  "mais": {
+   "label": "Maïs",
+   "phase_names": [
+    "Semis et levée",
+    "Croissance végétative",
+    "Floraison et remplissage",
+    "Maturation"
+   ],
+   "phase_weights": [
+    0.15,
+    0.3,
+    0.45,
+    0.1
+   ],
+   "price": 180.0,
+   "sum_insured_ha": 100000.0,
+   "phase_lengths": [
+    30,
+    35,
+    40,
+    30
+   ],
+   "sowing_window": [
+    125,
+    181
+   ]
+  }
+ },
+ "pricing_defaults": {
+  "subsidy_rate": 0.8,
+  "expense_rate": 0.25,
+  "cost_of_capital": 0.1,
+  "cvar_level": 0.995,
+  "n_sims": 10000,
+  "max_gross_rate": 0.1
+ }
+}

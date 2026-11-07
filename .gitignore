@@ -1,0 +1,9 @@
+node_modules/
+web/node_modules/
+web/dist/
+__pycache__/
+*.pyc
+data/agrisat.db
+data/raw/climate_daily.csv
+data/raw/ndvi.csv
+.env

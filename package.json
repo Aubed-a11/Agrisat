@@ -1,0 +1,21 @@
+{
+  "name": "agrisat",
+  "private": true,
+  "version": "1.0.0",
+  "description": "AGRISAT, assurance agricole indicielle par satellite pour le Nord Bénin",
+  "scripts": {
+    "setup": "pip install -r requirements.txt && npm install --prefix web && python -m agrisat_core.pipeline",
+    "pipeline": "python -m agrisat_core.pipeline",
+    "pipeline:rapide": "python -m agrisat_core.pipeline --sims 2000",
+    "donnees:importer": "python -m agrisat_core.sources.import_downloads agrisat_donnees.zip && python -m agrisat_core.pipeline --source real",
+    "api": "uvicorn api.main:app --reload --port 8000",
+    "web": "npm run dev --prefix web",
+    "dev": "concurrently -n api,web -c green,yellow \"npm:api\" \"npm:web\"",
+    "build": "npm run build --prefix web",
+    "start": "npm run build && uvicorn api.main:app --host 0.0.0.0 --port 8000",
+    "test": "python -m pytest -q tests"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}

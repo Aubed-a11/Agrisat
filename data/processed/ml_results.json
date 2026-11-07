@@ -1,0 +1,138 @@
+{
+ "coton": {
+  "skipped": "Rendements communaux absents ou insuffisants (0 observations)"
+ },
+ "mais": {
+  "metrics": {
+   "ridge": {
+    "r2": -0.147,
+    "rmse": 0.2067,
+    "mae": 0.1622,
+    "auc_bad_year": 0.449
+   },
+   "random_forest": {
+    "r2": -0.096,
+    "rmse": 0.2021,
+    "mae": 0.1572,
+    "auc_bad_year": 0.442
+   },
+   "xgboost": {
+    "r2": -0.159,
+    "rmse": 0.2078,
+    "mae": 0.1622,
+    "auc_bad_year": 0.458
+   }
+  },
+  "best_model": "random_forest",
+  "n_obs": 775,
+  "n_years": 29,
+  "features": [
+   "onset_doy",
+   "sowing_doy",
+   "rain_cap_p1",
+   "rain_p1",
+   "heavy_p1",
+   "dry_p1",
+   "tmax_p1",
+   "deficit_p1",
+   "ndvi_mean_p1",
+   "ndvi_max_p1",
+   "rain_cap_p2",
+   "rain_p2",
+   "heavy_p2",
+   "dry_p2",
+   "tmax_p2",
+   "deficit_p2",
+   "ndvi_mean_p2",
+   "ndvi_max_p2",
+   "rain_cap_p3",
+   "rain_p3",
+   "heavy_p3",
+   "dry_p3",
+   "tmax_p3",
+   "deficit_p3",
+   "ndvi_mean_p3",
+   "ndvi_max_p3",
+   "rain_cap_p4",
+   "rain_p4",
+   "heavy_p4",
+   "dry_p4",
+   "tmax_p4",
+   "deficit_p4",
+   "ndvi_mean_p4",
+   "ndvi_max_p4"
+  ],
+  "shap": {
+   "method": "shap",
+   "top_features": [
+    {
+     "feature": "onset_doy",
+     "importance": 0.01659
+    },
+    {
+     "feature": "rain_cap_p4",
+     "importance": 0.01655
+    },
+    {
+     "feature": "tmax_p3",
+     "importance": 0.01562
+    },
+    {
+     "feature": "ndvi_mean_p2",
+     "importance": 0.0113
+    },
+    {
+     "feature": "tmax_p1",
+     "importance": 0.011
+    },
+    {
+     "feature": "rain_cap_p3",
+     "importance": 0.01083
+    },
+    {
+     "feature": "ndvi_mean_p1",
+     "importance": 0.01063
+    },
+    {
+     "feature": "tmax_p4",
+     "importance": 0.01058
+    },
+    {
+     "feature": "deficit_p3",
+     "importance": 0.00983
+    },
+    {
+     "feature": "rain_p2",
+     "importance": 0.009
+    },
+    {
+     "feature": "rain_p3",
+     "importance": 0.00812
+    },
+    {
+     "feature": "rain_cap_p2",
+     "importance": 0.00808
+    },
+    {
+     "feature": "tmax_p2",
+     "importance": 0.00798
+    },
+    {
+     "feature": "deficit_p4",
+     "importance": 0.00795
+    },
+    {
+     "feature": "deficit_p1",
+     "importance": 0.00789
+    }
+   ],
+   "by_phase": {
+    "calendrier": 0.091,
+    "phase 1": 0.197,
+    "phase 2": 0.207,
+    "phase 3": 0.277,
+    "phase 4": 0.228
+   }
+  }
+ }
+}
